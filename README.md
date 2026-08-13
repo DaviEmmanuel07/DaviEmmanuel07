@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:205295&height=280&section=header&text=DAVI%20EMMANUEL&fontSize=60&fontColor=D4AF37&desc=Cursando%20Engenharia%20de%20Software%20na%20Unicesumar%20%7C%20Estagi%C3%A1rio%20Dev%20na%20Amtech%20Maring%C3%A1&descAlignY=65&descSize=20&descColor=D4AF37
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:205295&height=280&section=header&text=DAVI%20EMMANUEL&fontSize=60&fontColor=D4AF37&desc=Cursando%20Engenharia%20de%20Software%20na%20Unicesumar%20%7C%20Estagi%C3%A1rio%20Dev%20na%20Amtech%20Maring%C3%A1&descAlignY=65&descSize=20&descColor=D4AF37)
 
 
 ##
