@@ -1,0 +1,33 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B3D91"/>
+      <stop offset="50%" stop-color="#1959C4"/>
+      <stop offset="100%" stop-color="#2E7CF6"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="12" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="230" rx="14" fill="url(#bgGradient)"/>
+
+  <text x="450" y="100" text-anchor="middle"
+        font-family="Segoe UI, Verdana, sans-serif" font-weight="800"
+        font-size="52" fill="#F4C542" filter="url(#glow)">
+    DAVI EMMANUEL
+  </text>
+
+  <text x="450" y="140" text-anchor="middle"
+        font-family="Segoe UI, Verdana, sans-serif" font-weight="600"
+        font-size="19" fill="#F4C542" filter="url(#glow)">
+    Cursando Engenharia de Software na Unicesumar | Estagiário Dev na Amtech Maringá
+  </text>
+</svg>
